@@ -1,11 +1,32 @@
 # dara-0069
-Project (T.W.I.C.E.)
+Project Gas Gas Gas
 
-Version 0.00.00.01
+>>>Version 0.00.00.01
 
-Patch:
+>>>Patch notes:
 
-ReadMe.md Startup <File-Introduction>
-Magisk Executable Module
+>>>ReadMe.md Startup <File-Introduction>
+Magisk Executable Module.
+
+>>> Terms of Use:
+       /------\
+      | Blank  |=======[]
+   <====================\
+  /. /-----------------\ \
+   \  0---0-----0---0--. /
+
+>>> Code Contributors:
+       /------\
+      | Blank  |=======[]
+   <====================\
+  /. /-----------------\ \
+   \  0---0-----0---0--. /
+
+Future Updates:
+       /------\
+      | Blank  |=======[]
+   <====================\
+  /. /-----------------\ \
+   \  0---0-----0---0--. /
 
 -sourdubu
