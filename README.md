@@ -8,14 +8,14 @@ Project Gas Gas Gas
 >>>ReadMe.md Startup <File-Introduction>
 Magisk Executable Module.
 
->>> Terms of Use:
+Terms of Use:
        /------\
       | Blank  |=======[]
    <====================\
   /. /-----------------\ \
    \  0---0-----0---0--. /
 
->>> Code Contributors:
+Code Contributors:
        /------\
       | Blank  |=======[]
    <====================\
