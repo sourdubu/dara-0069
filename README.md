@@ -1,11 +1,12 @@
 # dara-0069
 Project Gas Gas Gas
 
->>>Version 0.00.00.02
+>>>Version 0.00.00.01
 
-Patch notes:
+>>>Patch notes:
 
-.sh file creation
+>>>ReadMe.md Startup <File-Introduction>
+Magisk Executable Module.
 
 Terms of Use:
        /------\
